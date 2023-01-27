@@ -1,2 +1,2 @@
 # IoTProgramming
-Files for  IoT Programming Class
+Files for  IoT Programming
